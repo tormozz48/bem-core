@@ -1,3 +1,17 @@
+<!--
+{
+    "title": "Hello, BEMHTML!",
+    "createDate": "09-07-2013",
+    "editDate": "",
+    "summary": "This guide helps try the BEMHTML Templaiting Engine and understand the basics of working with it in 7 simple steps.",
+    "thumbnail": "",
+    "authors": ["maslinsky-kirill"],
+    "tags": ["BEMHTML"],
+    "translators": ["nekhaieva-aleksandra"],
+    "type": "libs"
+}
+#META_LABEL-->
+
 # Hello, BEMHTML!
 
 This guide will help you try the `BEMHTML Templaiting Engine` and understand the basics of working with it in 7 easy steps:

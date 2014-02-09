@@ -1,3 +1,17 @@
+<!--
+{
+    "title": "BEMHTML: шаблонизатор для БЭМ",
+    "createDate": "02-09-2013",
+    "editDate": "",
+    "summary": "BEMHTML: краткая информация, возможности, сравнение с другими шаблонизаторами.",
+    "thumbnail": "",
+    "authors": ["maslinsky-kirill"],
+    "tags": ["BEMHTML"],
+    "translators": [],
+    "type": ["libs", "tools"]
+}
+#META_LABEL-->
+
 # BEMHTML: шаблонизатор для БЭМ
 
 **BEMHTML** — шаблонизатор (шаблонный движок) для тех, кто ведет веб-разработку в рамках [БЭМ-методологии](http://ru.bem.info/method). 

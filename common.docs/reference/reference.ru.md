@@ -1,3 +1,17 @@
+<!--
+{
+    "title": "Референс по BEMHTML",
+    "createDate": "06-03-2013",
+    "editDate": "",
+    "summary": "Cправочное руководство по шаблонизатору BEMHTML.",
+    "thumbnail": "",
+    "authors": ["maslinsky-kirill"],
+    "tags": ["BEMHTML"],
+    "translators": [],
+    "type": ["libs", "tools"]
+}
+#META_LABEL-->
+
 <a id="intro"></a>
 
 ### Введение

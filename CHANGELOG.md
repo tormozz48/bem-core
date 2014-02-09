@@ -1,3 +1,18 @@
+<!--
+{
+    "title": "История изменений",
+    "longTitle": "bem-core: история изменений",
+    "createDate": "26-07-2013",
+    "editDate": "",
+    "summary": "История изменений.",
+    "thumbnail": "",
+    "authors": ["berezhnoy-sergey","filatov-dmitry"],
+    "tags": ["bem-core"],
+    "translators": [],
+    "type": "libs"
+}
+#META_LABEL-->
+
 # Changelog
 
 ## 1.0.0
