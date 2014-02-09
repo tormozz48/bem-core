@@ -1,3 +1,17 @@
+<!--
+{
+    "title": "BEMHTML-Reference",
+    "createDate": "02-09-2013",
+    "editDate": "",
+    "summary": "BEMHTML-reference.",
+    "thumbnail": "",
+    "authors": ["maslinsky-kirill"],
+    "tags": ["BEMHTML"],
+    "translators": ["nekhaieva-aleksandra"],
+    "type": ["libs", "tools"]
+}
+#META_LABEL-->
+
 <a id="intro"></a>
 
 ### Introduction

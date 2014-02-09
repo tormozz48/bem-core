@@ -1,3 +1,17 @@
+<!--
+{
+    "title": "BEMHTML: Template Engine for BEM",
+    "createDate": "02-09-2013",
+    "editDate": "",
+    "summary": "BEMHTML: short overview, capabilities, comparison with other template engines.",
+    "thumbnail": "",
+    "authors": ["maslinsky-kirill"],
+    "tags": ["BEMHTML"],
+    "translators": ["nekhaieva-aleksandra"],
+    "type": ["libs", "tools"]
+}
+#META_LABEL-->
+
 # BEMHTML: a Templating Engine for BEM
 
 **BEMHTML** is a templating engine for thous who are using [BEM-metodology](http://bem.info/method)

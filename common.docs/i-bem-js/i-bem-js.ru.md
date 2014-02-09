@@ -1,3 +1,17 @@
+<!--
+{
+    "title": "i-bem.js: Руководство пользователя",
+    "createDate": "17-09-2013",
+    "editDate": "",
+    "summary": "Руководство пользователя.",
+    "thumbnail": "",
+    "authors": ["maslinsky-kirill"],
+    "tags": ["bem-core","i-bem"],
+    "translators": [],
+    "type": "libs"
+}
+#META_LABEL-->
+
 # *i-bem.js*: Руководство пользователя #
 
 ## *i-bem.js*: Javascript-фреймворк для БЭМ ##

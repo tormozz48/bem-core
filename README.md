@@ -1,3 +1,18 @@
+<!--
+{
+    "title": "Library",
+    "longTitle": "bem-core Library",
+    "createDate": "25-12-2013",
+    "editDate": "",
+    "summary": "bem-core is a base library for web interface development. It provides the minimal stack for coding client-side JavaScript and templating.",
+    "thumbnail": "",
+    "authors": ["berezhnoy-sergey"],
+    "tags": ["bem-core"],
+    "translators": ["stepanova-varvara"],
+    "type": "libs"
+}
+#META_LABEL-->
+
 # bem-core Library [![Build Status](https://travis-ci.org/bem/bem-core.png)](https://travis-ci.org/bem/bem-core)
 
 This README is also available [in Russian](http://ru.bem.info/libs/bem-core/).

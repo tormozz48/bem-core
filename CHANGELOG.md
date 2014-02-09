@@ -1,3 +1,18 @@
+<!--
+{
+    "title": "Changelog",
+    "longTitle": "bem-core: Changelog",
+    "createDate": "25-12-2013",
+    "editDate": "",
+    "summary": "The history of bem-core changes.",
+    "thumbnail": "",
+    "authors": ["berezhnoy-sergey","filatov-dmitry"],
+    "tags": ["bem-core"],
+    "translators": [],
+    "type": "libs"
+}
+#META_LABEL-->
+
 # Changelog
 
 ## 1.1.0

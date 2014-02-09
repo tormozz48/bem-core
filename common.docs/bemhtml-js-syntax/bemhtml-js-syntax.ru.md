@@ -1,3 +1,17 @@
+<!--
+{
+    "title": "JS-синтаксис BEMHTML",
+    "createDate": "11-06-2013",
+    "editDate": "",
+    "summary": "С версии v1.0.0 в библиотеку bem-core была добавлена возможность исполнять BEMHTML-шаблоны, написанные в JavaScript-синтаксисе.",
+    "thumbnail": "",
+    "authors": ["indutny-fedor"],
+    "tags": ["API"],
+    "translators": [],
+    "type": "articles"
+} 
+#META_LABEL-->
+
 #JS-синтаксис BEMHTML. Руководство по миграции
 
 <a name="intro"></a>

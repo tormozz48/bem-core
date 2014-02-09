@@ -1,3 +1,18 @@
+<!--
+{
+    "title": "bem-core Library",
+    "longTitle": "Библиотека bem-core",
+    "createDate": "25-12-2013",
+    "editDate": "25-12-2013",
+    "summary": "bem-core это базовая библиотека блоков для разработки веб-интерфейсов. Содержит только необходимый минимум для разработки клиентского js и html-шаблонов.",
+    "thumbnail": "",
+    "authors": ["berezhnoy-sergey"],
+    "tags": ["bem-core"],
+    "translators": [],
+    "type": "libs"
+}
+#META_LABEL-->
+
 # bem-core Library [![Build Status](https://travis-ci.org/bem/bem-core.png)](https://travis-ci.org/bem/bem-core)
 
 This README is also available [in English](http://bem.info/libs/bem-core/).
